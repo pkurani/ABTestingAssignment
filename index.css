@@ -1,10 +1,10 @@
 /* Put your style information here! */
 body {
-    background-color: #FFE4E4;
       font-family: arial;
       font-weight: 300;
       font-size: 22px;
       color: grey;
+      background-color: #FFE4E4;
   }
   ul {
     text-align: left!important;
